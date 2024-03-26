@@ -3,6 +3,15 @@ Police Job for QB-Core Framework :police_officer:
 
 Added F6 Menu and removed all unnecessary commands.
 
+Previews:
+
+
+![Captura de ecrã 2024-03-26 190837](https://github.com/sakuraa0/qb-policejob/assets/69822832/cc1a6403-5d5a-40d5-8524-8035175be9ba)
+
+![Captura de ecrã 2024-03-26 190841](https://github.com/sakuraa0/qb-policejob/assets/69822832/af518f43-5d7c-4406-bf85-285d54af06fb)
+
+![Captura de ecrã 2024-03-26 190845](https://github.com/sakuraa0/qb-policejob/assets/69822832/b7941d2e-de31-43e9-a5c6-cdcb439e191a)
+
 
 # License
 
