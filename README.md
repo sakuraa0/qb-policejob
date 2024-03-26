@@ -1,6 +1,9 @@
 # qb-policejob
 Police Job for QB-Core Framework :police_officer:
 
+Added F6 Menu and removed all unnecessary commands.
+
+
 # License
 
     QBCore Framework
