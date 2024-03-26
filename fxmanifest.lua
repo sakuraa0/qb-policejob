@@ -6,6 +6,7 @@ description 'Provides police tools, evidence, job and more functionality for pla
 version '1.3.5'
 
 shared_scripts {
+	'@ox_lib/init.lua',
 	'config.lua',
 	'@qb-core/shared/locale.lua',
 	'locales/en.lua',
