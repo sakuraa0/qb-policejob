@@ -12,6 +12,9 @@ Previews:
 
 ![Captura de ecrã 2024-03-26 190845](https://github.com/sakuraa0/qb-policejob/assets/69822832/b7941d2e-de31-43e9-a5c6-cdcb439e191a)
 
+![Captura de ecrã 2024-03-26 190959](https://github.com/sakuraa0/qb-policejob/assets/69822832/6a3765df-a1e6-4b3f-99a4-bebec39739f0)
+
+
 
 # License
 
