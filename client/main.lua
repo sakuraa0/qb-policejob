@@ -519,24 +519,14 @@ end)
 
 --Added
 
-Citizen.CreateThread(function()
-    local src = source
-    local inMenu = false
-    while true do
-        Citizen.Wait(0)
-        if inMenu then
-            if IsControlJustPressed(0, 167) then -- F6 Key
-                lib.hideContext()
-                inMenu = false
-            end
-        else
-            if IsControlJustPressed(0, 167) then -- F6 Key
-                TriggerEvent('police:client:openmenu')
-                inMenu = true 
-            end
-        end
-    end
-end)
+lib.addKeybind({
+    name = "policemenu",
+    description = "Police Menu",
+    defaultKey = "F6",
+    onPressed = function(self)
+        TriggerEvent('police:client:openmenu')
+    end,
+})
 
 if Config.targetuseall then
 
